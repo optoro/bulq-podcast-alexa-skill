@@ -1,5 +1,6 @@
 ![alt text](https://hackoween-timer.s3.amazonaws.com/Hackoween-2017-decal.png "Hack-o-Ween")
-![alt text](https://bulq.s3.amazonaws.com/development/bulqpod.png "Bulq Podcast")
+
+![alt text](https://hackoween-timer.s3.amazonaws.com/bulqpod.png "Bulq Podcast")
 
 # Hack-o-Ween Bulq.com Podcast Alexa Skill
 
