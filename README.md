@@ -1,6 +1,6 @@
 # Hack-o-Ween Bulq.com Podcast Alexa Skill
 
-This skill will play the podcasts listed in audio assets, currently episode 1 is being hosted on Soundcloud here: https://soundcloud.com/patrick-campbell-450277307 
+This skill will play the podcasts listed in audioAssets.js, currently episode 1 is being hosted on Soundcloud here: https://soundcloud.com/patrick-campbell-450277307 
 
 ## How it Works
 
