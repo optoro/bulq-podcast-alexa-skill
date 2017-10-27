@@ -4,7 +4,7 @@
 var audioData = [
     {
         'title' : 'Episode 1',
-        'url' : 'https://feeds.soundcloud.com/stream/348754651-patrick-campbell-450277307-bulq-podcast-episode-1.mp3'
+        'url' : 'https://s3.amazonaws.com/bulq-podcast/bulk_radio_ep_1_final.mp3'
     }
 ];
 
