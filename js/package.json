@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-nodejs-audio-player",
+  "name": "bulq-podcast-alexa-skill-hackday",
   "version": "1.0.0",
-  "description": "An audio player sample skill.",
+  "description": "Bulq.com podcast streamer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,10 @@
   "keywords": [
     "alexa",
     "skill",
-    "audio player"
+    "audio player",
+    "bulq",
+    "bulk",
+    "optoro"
   ],
   "author": "Amazon.com",
   "license": "See license in ../LICENSE.txt",
