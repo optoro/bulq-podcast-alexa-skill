@@ -20,7 +20,7 @@ var stateHandlers = {
             //  Change state to START_MODE
             this.handler.state = constants.states.START_MODE;
 
-            var message = 'Hello Optoro!  Welcome to the Bulk dot com Podcast. You can say, play the audio, to begin the podcast.';
+            var message = 'Hello, Optoro, Happy Hack O Ween!  Welcome to the Bulk dot com Podcast. You can say, play the audio, to begin the podcast.  Don\'t forget to vote for Patrick!';
             var reprompt = 'You can say, play the audio, to begin.';
 
             this.response.speak(message).listen(reprompt);
